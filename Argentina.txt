@@ -1,2 +1,4 @@
 Capital = Buenos Aires 
 Capital de Santa Fe = Santa Fe 
+
+Tiene 45 millones de habitantes.
