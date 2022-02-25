@@ -1,1 +1,1 @@
-Capital = Bogotá
+Capital = Bogotá tiene 2640 metros de altura
