@@ -1,1 +1,2 @@
 Capital = Buenos Aires 
+Capital de Santa Fe = Santa Fe 
